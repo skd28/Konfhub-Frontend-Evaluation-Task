@@ -18,6 +18,7 @@ React + Vite
 3. Set working directory to the root directory of the project.
   ```sh
   cd  my-project
+  ```
 
 4. Install all the required packages and dependencies.
   ```node
