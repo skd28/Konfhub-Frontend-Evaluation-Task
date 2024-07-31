@@ -1,8 +1,37 @@
-# React + Vite
+# Konfhub-Frontend-Evaluation-Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+   This site is live at - https://konfhub-frontend-evaluation-task.vercel.app/
+<br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+React + Vite
+
+##  Getting Started 
+### Setup the repository to your local environment.
+
+ `Fork` the repository  - Creates a replica of repository to your local environment.
+2. Clone the repository - Downloads all repo files to your machine, using
+  ```git
+  git clone git@github.com:skd28/Konfhub-Frontend-Evaluation-Task.git
+  ``` 
+3. Set working directory to the root directory of the project.
+  ```sh
+  cd  my-project
+
+4. Install all the required packages and dependencies.
+  ```node
+  npm install
+  ```
+3. Run the server.
+  ```node
+  npm run dev
+  ```
+4. [Click here](http://localhost:5173) to see the backend server runing in the browser OR navigate to
+  ```text
+  http://localhost:5173
+  ```
+
+
+
+
